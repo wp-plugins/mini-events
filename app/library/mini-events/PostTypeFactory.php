@@ -38,6 +38,7 @@ class ME_PostTypeFactory {
                     
                 ),
             'public' => true,
+            'has_archive' => true,
             'rewrite' => array( 
                             'with_front' => false
                 ),
