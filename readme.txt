@@ -1,4 +1,4 @@
-=== My Testimonials ===
+=== Mini Events ===
 Contributors: peter.featherstone
 Donate link: http://www.peterfeatherstone.com/donate/
 Tags: events, mini, event
